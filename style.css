@@ -74,10 +74,24 @@ b {
     color: #ff004f;
 }
 
+.nav-links {
+    margin-right: -14rem;
+}
+
 .nav-links a {
     font-size: 1rem;
     color: 	#002d9e;
     margin: 0.4rem 0.4rem;
+}
+
+.nav-lang {
+    width: 50px;
+    height: 50px;
+}
+
+.nav-lang img {
+    width: 1rem;
+    cursor: pointer;
 }
 
 .main-desc {
